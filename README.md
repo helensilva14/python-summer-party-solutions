@@ -15,3 +15,5 @@ This repository contains my completed notebooks from Interview Master's Python S
 ## About Interview Master
 
 These challenges are hosted by Interview Master -- a platform for preparing for Data Science & Analytics interviews. Learn more at [interviewmaster.ai](https://www.interviewmaster.ai).
+
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/d3936e4c-d1a4-4021-9304-028589c0577e" />
